@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 
 from settings.settings import API_TOKEN
 
-# Configure loggin
+# Configure logging
 logging.basicConfig(level=logging.INFO)
 
 # Initialize bot and dispatcher
